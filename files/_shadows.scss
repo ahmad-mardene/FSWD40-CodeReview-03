@@ -1,0 +1,20 @@
+header h1.header{
+	text-shadow: 2px 0.5px gray;
+}
+a{
+    text-shadow: 2px 0.5px gray;
+}
+.member{
+	
+	-webkit-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+}
+
+.member:hover{
+    -webkit-transform: scale(1.2);
+    border-radius: 25px;
+   
+	
+}
